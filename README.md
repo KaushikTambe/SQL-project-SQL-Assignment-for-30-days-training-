@@ -1,4 +1,4 @@
-# 🏥 30 Days SQL Micro Course — Assignment 1
+# 🏥 30 Days SQL Micro Course — Assignment
 
 ## 📌 Project Overview
 In this assignment, I extracted key insights from a healthcare dataset 
@@ -38,8 +38,8 @@ data analysis.
 - **Editor:** pgAdmin / VS Code
 
 ## 📎 LinkedIn Post
-[View the full post and explanation here](your LinkedIn post link here)
+[View the full post and explanation here]
 
 ## 👤 Author
 **Your Name**
-[LinkedIn Profile](your LinkedIn profile link here)
+[LinkedIn Profile]
